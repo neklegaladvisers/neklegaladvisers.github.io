@@ -1562,7 +1562,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #e4d295;
 }
 .cid-rmbZ0Xp6m5 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1642,7 +1642,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rmbZ0Xp6m5 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.8rem);
+    max-height: calc(98.5vh - 3.8rem);
   }
 }
 .cid-rmbZ0Xp6m5 .collapsed button.navbar-toggler {
@@ -1798,7 +1798,15 @@ body {
 }
 .cid-rmbZ0Xp6m5 .nav-link:hover,
 .cid-rmbZ0Xp6m5 .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #0f7699 !important;
+}
+.cid-rmcdymBlSp {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/mbr-1920x1202.jpg");
+}
+.cid-rmcdymBlSp .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-rmccbFPFSC {
   background-image: url("../../../assets/images/background1.jpg");
@@ -1995,7 +2003,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #e4d295;
 }
 .cid-rmbZ0Xp6m5 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2075,7 +2083,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rmbZ0Xp6m5 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.8rem);
+    max-height: calc(98.5vh - 3.8rem);
   }
 }
 .cid-rmbZ0Xp6m5 .collapsed button.navbar-toggler {
@@ -2231,5 +2239,5 @@ body {
 }
 .cid-rmbZ0Xp6m5 .nav-link:hover,
 .cid-rmbZ0Xp6m5 .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #0f7699 !important;
 }
