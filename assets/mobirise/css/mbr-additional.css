@@ -1800,6 +1800,32 @@ body {
 .cid-rmbZ0Xp6m5 .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rmccbFPFSC {
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-rmccbFPFSC .icons-media-container {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-rmccbFPFSC .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-rmccbFPFSC .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-rmccbFPFSC .mbr-text {
+  color: #ffffff;
+}
+.cid-rmccbFPFSC .card {
+  padding-bottom: 1.5rem;
+}
 .cid-rmbZ0Xp6m5 .navbar {
   padding: .5rem 0;
   background: #333333;
