@@ -4095,7 +4095,7 @@ body {
   padding-top: 105px;
   padding-bottom: 45px;
   position: relative;
-  background-color: #f9f9f9;
+  background-color: #efefef;
 }
 .cid-rme1RjbdPm .card {
   border-radius: 0px;
@@ -4127,6 +4127,44 @@ body {
   padding-right: 1rem;
 }
 .cid-rme1RjbdPm .card .panel-body {
+  color: #767676;
+}
+.cid-rmtzVYUa3m {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  position: relative;
+  background-color: #ded8d9;
+}
+.cid-rmtzVYUa3m .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-rmtzVYUa3m .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-rmtzVYUa3m .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-rmtzVYUa3m .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rmtzVYUa3m .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-rmtzVYUa3m .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-rmtzVYUa3m .card .panel-body {
   color: #767676;
 }
 .cid-rmdFRIaeAe {
