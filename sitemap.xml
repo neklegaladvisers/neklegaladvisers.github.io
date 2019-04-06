@@ -9,9 +9,6 @@
 		<loc>http://legaladvisers.co.in/contact-us.html</loc>
 	</url>
 	<url>
-		<loc>http://legaladvisers.co.in/services.html</loc>
-	</url>
-	<url>
 		<loc>http://legaladvisers.co.in/resources.html</loc>
 	</url>
 	<url>
@@ -19,5 +16,11 @@
 	</url>
 	<url>
 		<loc>http://legaladvisers.co.in/additional-services.html</loc>
+	</url>
+	<url>
+		<loc>http://legaladvisers.co.in/services-general.html</loc>
+	</url>
+	<url>
+		<loc>http://legaladvisers.co.in/all-services.html</loc>
 	</url>
 </urlset>
